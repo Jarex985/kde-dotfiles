@@ -1,4 +1,4 @@
-# konsave-backup
+# kde-dotfiles
 
 KDE Plasma 6.6 theme backup managed with [konsave](https://github.com/Prayag2/konsave).
 
@@ -31,13 +31,13 @@ paru -S --needed konsave klassy plasma6-applets-panel-colorizer kde-material-you
 ### Step 1 - Clone this repo
 
 ```bash
-git clone https://github.com/Jarex985/konsave-backup
+git clone https://github.com/Jarex985/kde-dotfiles
 ```
 
 ### Step 2 - Install plasmoids and apply the profile
 
 ```bash
-bash konsave-backup/install.sh
+bash kde-dotfiles/install.sh
 ```
 
 This imports and applies the konsave profile, installs plasmoids, the Vinyl Plasma Theme, and Volantes Cursors (Light) from the KDE Store. You will also be asked whether to:
